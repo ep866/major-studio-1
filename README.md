@@ -18,6 +18,11 @@ Here is the live version of the game:
 [https://ep866.github.io/p5_game/
 ](https://ep866.github.io/p5_game/)
 
+#####Workshop 3  
+_02/02/2017_
+
+* Load and Visualize data in p5
+
 <br>
 <br>
 ####PROJECTS:
