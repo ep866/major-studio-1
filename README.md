@@ -8,6 +8,10 @@ _01/26/2017_
 
 * Added index.html with exercises 
 
+Setup and link to github.io
+
+[https://ep866.github.io/](https://ep866.github.io/)
+
 #####Workshop 2  
 _01/31/2017_
 
