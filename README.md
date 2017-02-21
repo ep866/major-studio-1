@@ -31,6 +31,7 @@ _02/02/2017_
 <br>
 ####PROJECTS:
 
+
 #### Data Review 
 #####1. Selected Data Sources  
 
@@ -69,3 +70,6 @@ Question: Did anyone get what the source of this dataset is? As far as I could t
 
 * Is it fair to speculate that New York City’s population density and constantly changing dynamic (many people rent and come and go rather than settle) contributes to the makeup of neighborhoods? In other words, could I fairly assume that inequality can be measured by proxy of rent, owned vs vacant units?
 
+
+### Project 1 Final
+[https://ep866.github.io/census/](https://ep866.github.io/census/)
